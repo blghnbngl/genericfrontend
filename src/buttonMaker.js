@@ -6,6 +6,10 @@ const ButtonMaker = ({ buttonName }) => {
             <button>
                 {buttonName}
             </button>
+            <br>
+            </br>
+            <br>
+            </br>
         </div>
     )
 }
